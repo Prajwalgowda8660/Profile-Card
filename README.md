@@ -20,7 +20,7 @@ This project is a simple personal profile card that displays your name, picture,
 
 ## Screenshots
 
-![Personal_Profile_Card](https://github.com/user-attachments/assets/33fcb055-963c-4fc5-9c3d-b65d2ab788d3)
+![Personal_Profile_Card](![Screenshot 2024-09-14 211837](https://github.com/user-attachments/assets/f4e70cad-10a1-4e7f-872a-f5cf85702e19))
 
 ## Built With
 
@@ -40,7 +40,7 @@ You need a modern web browser to run this project.
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/sharath453/personal-profile-card.git
+   git clone https://github.com/Prajwalgowda8660/Profile-card.git
 2. Open the index.html file in your browser to view the profile card.
 
 ## Usage
@@ -54,8 +54,6 @@ You need a modern web browser to run this project.
 3. Easy customization
 
 ## Contact
-Email - alsharath66@gmail.com<br>
-LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
+Email - prajwalgowdagowda65@gmail.com<br>
+LinkedIn - [PRAJWAL GOWDA H G](https://www.linkedin.com/in/prajwal-gowda-h-g-148534242/)
 
-## Project Link 
-https://github.com/sharath453/personal-profile-card.git
